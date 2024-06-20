@@ -1,1 +1,6 @@
-Here, In this code, I made an Online Shopping Website by using HTML, CSS, Javascript, PHP, etc., and developed a successful professional website.
+NAME: SWAPNIL AJIT TAYDE
+COMPANY: CODTECH IT SOLUTION 
+ID: CT08PD835
+DOMAIN: WEB DEVELOPMENT
+DURATION: MAY TO JUNE 2024
+MENTOR: SRAVANI GOUNI
